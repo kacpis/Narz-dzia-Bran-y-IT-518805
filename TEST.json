@@ -1,12 +1,12 @@
 {
-    "imię": "Jan",
-    "nazwisko": "Kowalski",
-    "wiek": 30,
-    "zawód": "Inżynier",
+    "imię": "Marian",
+    "nazwisko": "Zalewski",
+    "wiek": 25,
+    "zawód": "Informatyk",
     "adres": {
-        "ulica": "Mickiewicza 5",
-        "miasto": "Warszawa",
+        "ulica": "Ogrodowa 7",
+        "miasto": "Poznań",
         "kod_pocztowy": "00-000"
     },
-    "hobby": ["sport", "czytanie", "podróże"]
+    "hobby": ["komputery", "czytanie", "pływanie"]
 }
