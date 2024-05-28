@@ -1,16 +1,16 @@
 <persona>
-    <imie>Jan</imie>
-    <nazwisko>Kowalski</nazwisko>
-    <wiek>30</wiek>
-    <zawod>Inżynier</zawod>
+    <imie>Marian</imie>
+    <nazwisko>Zalewski</nazwisko>
+    <wiek>25</wiek>
+    <zawod>Informatyk</zawod>
     <adres>
-        <ulica>Mickiewicza 5</ulica>
-        <miasto>Warszawa</miasto>
+        <ulica>Ogrodowa 7</ulica>
+        <miasto>Poznań</miasto>
         <kod_pocztowy>00-000</kod_pocztowy>
     </adres>
     <hobby>
-        <hobby1>sport</hobby1>
+        <hobby1>komputery</hobby1>
         <hobby2>czytanie</hobby2>
-        <hobby3>podróże</hobby3>
+        <hobby3>pływanie</hobby3>
     </hobby>
 </persona>
